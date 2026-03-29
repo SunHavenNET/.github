@@ -1,72 +1,42 @@
-# 🌞 SunHaven.net – Minecraft Network
+# SunHaven.net
 
-Willkommen im offiziellen GitHub-Repository von **SunHaven.net**, einem innovativen Minecraft Netzwerk mit eigenen Features, Systemen und aktiver Community.  
-Unser Ziel: ein moderner, qualitativer Server mit Fokus auf Spielerlebnis, Performance & einzigartigen Gameplay-Mechaniken.
+SunHaven ist ein modernes Minecraft-Netzwerk mit eigenem Tech-Stack, klarer Architektur und Fokus auf Performance, Qualität und langfristige Weiterentwicklung.
 
----
+## Was wir bauen
 
-## 🔥 Features
+- Eigene Plugins, Services und Netzwerk-Systeme
+- Performante, skalierbare Infrastruktur für viele Spieler
+- Gameplay mit klaren Mechaniken statt Standard-Setup
 
-- Eigene **Custom-Plugins & Systeme**
-- Individuelles **Territory-System**
-- Performance-optimierte Serverstruktur
-- Moderne Entwicklung mit Java, Kotlin & weiteren Tools
+## Module
 
-> *Mehr Features folgen – dieses Repository begleitet unsere Entwicklung.*
+| Modul | Zweck |
+|---|---|
+| Core / API | Zentrale Services, gemeinsame Schnittstellen, interne Kommunikation |
+| Backend | Gameplay-Logik, Features, Systeme |
+| Proxy | Routing, Session-Handling, Netzwerksteuerung |
+| Plugins | Fachmodule und Erweiterungen |
+| Web / Tools | Dashboard, Automationen, Integrationen |
 
----
+## Grundsätze
 
-## 📁 Projekte & Module
-
-| Projekt | Beschreibung |
-|--------|--------------|
-| Core / API | Zentrales Framework für interne Systeme & Kommunikation |
-| Backend | Serverseitige Features & Gameplay-Logik |
-| Proxy | Routing, Networks, Performance & Spielerhandling |
-| Plugins | Einzelne Module & Erweiterungen |
-| Web/Tools | Web-Integrationen, Dashboard & Automationen |
-
----
-
-## 🚀 Ziele & Vision
-
-SunHaven soll ein langfristiges & skalierbares Netzwerk werden:
-
-- Stabile Struktur für große Spielerzahlen
 - Qualität vor Quantität
-- Spieler-Feedback wird ernst genommen
-- Regelmäßige Updates & Features
-- Community-Events & saisonale Inhalte (Adventskalender, Challenges, usw.)
+- Stabile Releases statt schneller Workarounds
+- Spieler-Feedback fließt direkt in die Priorisierung ein
+- Kontinuierliche Iteration mit klarer technischer Basis
 
----
+## Technologie
 
-## 🛠 Entwicklung
+- Java, Kotlin
+- Gradle
+- Paper, Velocity
+- Interne Tools und Management-Systeme
 
-### Technologien & Tools
+## Links
 
-- **Java / Kotlin**
-- **Maven / Gradle**
-- **Paper / Velocity / Proxy-Architektur**
-- **SimpleCloud / interne Managementsysteme**
-- **GitHub für Code & Open-Source-Teile**
+- Website: [https://www.sunhaven.net](https://www.sunhaven.net)
+- Discord: [https://dsc.gg/sunhaven](https://dsc.gg/sunhaven)
 
----
+## Rechtliches
 
-## 📬 Kontakt & Socials
-
-🌍 Website (bald online): **https://www.SunHaven.net**  
-💬 Discord: **https://dsc.gg/sunhaven**  
-📦 GitHub: Du bist schon hier 👀  
-
-
----
-
-## 📄 Lizenz
-
-Dieses Projekt ist **proprietär** und steht unter keiner freien Lizenz, solange nicht anders angegeben.  
-Weitergabe oder Nutzung ohne Erlaubnis des SunHaven Teams ist untersagt.
-
----
-
-### ☀️ SunHaven.net – Play different. Play better.
-
+Dieses Repository und alle enthaltenen Inhalte sind proprietär, sofern nicht ausdrücklich anders gekennzeichnet. Nutzung, Weitergabe oder Vervielfältigung nur mit schriftlicher Genehmigung des SunHaven-Teams.
